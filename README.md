@@ -216,10 +216,6 @@ https://graphhopper.com/api/1/route?point=starting_latitude,starting_longitude&p
 
 ![](./personas/persona-charles.png)
 
-### Jake
+## WireFrame
 
-![](./personas/persona-jake.png)
-
-### Peter
-
-![](./personas/persona-peter.png)
+## Site Preview
